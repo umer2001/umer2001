@@ -9,7 +9,11 @@
 
 ### A Student, Developer & Cloud enthusiast
 
-### Languages & Frameworks
+**Achievements**
+
+- ### Microsoft Certified: Azure Developer Associate [<code><img width=20px src="./azure-1.png"></code>](https://www.credly.com/badges/13c322e7-6a49-4552-9543-17b9a3aadcfb/public_url "Microsoft Certified: Azure Developer Associate")
+
+**Languages & Frameworks**
 
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
