@@ -1,7 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Umer Farooq
 
+<a href="https://www.linkedin.com/in/umer2001/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN-Umer%20Farooq-blue?style=flat&logo=linkedin"></a>
 <a href="https://github.com/umer2001">
-    <img src="https://komarev.com/ghpvc/?username=umer2001">
+<img src="https://komarev.com/ghpvc/?username=umer2001">
 </a>
 
 <img align="right" src="umer.svg" width="300" height="190" >
@@ -11,6 +12,7 @@
 
 **Achievements**
 
+- ### Microsoft Certified: DevOps Expert [<code><img width=20px src="./azure-2.png"></code>](https://www.credly.com/badges/e2580bdb-aef3-4ae7-acf6-69c9b0b21d24 "Microsoft Certified: DevOps Expert")
 - ### Microsoft Certified: Azure Developer Associate [<code><img width=20px src="./azure-1.png"></code>](https://www.credly.com/badges/13c322e7-6a49-4552-9543-17b9a3aadcfb/public_url "Microsoft Certified: Azure Developer Associate")
 
 **Languages & Frameworks**
