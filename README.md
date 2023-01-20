@@ -8,7 +8,7 @@
 <img align="right" src="umer.svg" width="300" height="190" >
 <br />
 
-### A Full Stack Developer & Cloud enthusiast
+### A Full Stack Developer & Cloud Enthusiast
 
 **Achievements**
 
