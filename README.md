@@ -39,7 +39,7 @@ I care about systems that are technically strong, but also useful to operators, 
 
 I am currently building through freelance work while exploring the right full-time opportunity, ideally with a team that values **full-stack product ownership**, **platform maturity**, and **practical AI automation**.
 
-## Selected Certifications
+## Certifications
 
 - **Google Cloud Professional Data Engineer**
 - **Microsoft Certified: DevOps Engineer Expert**
