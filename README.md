@@ -1,34 +1,54 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Umer Farooq
+# Muhammad Umer Farooq
 
-<a href="https://www.linkedin.com/in/umer2001/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN-Umer%20Farooq-blue?style=flat&logo=linkedin"></a>
-<a href="https://github.com/umer2001">
-<img src="https://komarev.com/ghpvc/?username=umer2001">
-</a>
+Full-stack engineer focused on building real products across **ERP/CRM**, **commerce**, **cloud infrastructure**, and **practical AI automation**.
 
-<img align="right" src="umer.svg" width="300" height="190" >
-<br />
+I have spent 5+ years shipping software end to end: frontend, backend, APIs, integrations, deployment, and the operational realities that come with running systems in production. My work sits at the intersection of product engineering and platform thinking, with a strong bias toward solutions that are useful, maintainable, and commercially grounded.
 
-### A Full Stack Developer & Cloud Enthusiast
+## What I Work On
 
-**Achievements**
+- Building **full-stack products** for SaaS platforms, internal tools, and customer-facing systems
+- Designing and extending **ERP / CRM workflows** with deep hands-on work in ERPNext, Frappe, and business automation
+- Shipping **cloud and DevOps-heavy systems** across AWS, Azure, and GCP-aligned environments
+- Applying **AI automation** where it creates real leverage: workflows, agent-style integrations, decision support, and human-in-the-loop systems
+- Delivering **commerce and operational platforms** involving storefronts, payments, integrations, multi-tenancy, and backend orchestration
 
-- ### Microsoft Certified: DevOps Expert [<code><img width=20px src="./azure-2.png"></code>](https://www.credly.com/badges/e2580bdb-aef3-4ae7-acf6-69c9b0b21d24 "Microsoft Certified: DevOps Expert")
-- ### Microsoft Certified: Azure Developer Associate [<code><img width=20px src="./azure-1.png"></code>](https://www.credly.com/badges/13c322e7-6a49-4552-9543-17b9a3aadcfb/public_url "Microsoft Certified: Azure Developer Associate")
+## Areas I Have Spent Real Time In
 
-**Languages & Frameworks**
+- **React, Node.js, TypeScript, and Python** for production-grade applications
+- **ERPNext / Frappe** custom apps, DocTypes, controls, automations, and operational workflows
+- **Headless and composable commerce** with Medusa, storefronts, and integration-heavy backend services
+- **Event-driven and serverless architectures** using queues, workers, APIs, and cloud infrastructure
+- **AI-assisted systems** that go beyond chat and connect models to real workflows and actions
+- **CI/CD, containers, reverse proxies, and production delivery** for web, mobile, and backend systems
 
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+## How I Think 🛠️
 
-<!--
-**umer2001/umer2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Product ownership
+I enjoy taking ambiguous ideas and turning them into working systems. That includes shaping the product, building the implementation, and owning the production concerns that usually get left behind.
+
+### ERP and operations depth
+A lot of my work has involved translating messy business operations into software that teams can actually use. ERP/CRM has been a real specialization for me, not a side category.
+
+### Practical AI
+I am interested in AI when it improves real workflows: routing work, enriching context, automating repetitive steps, supporting better decisions, or enabling agents to take safe actions through integrations.
+
+### Engineering with business context
+I care about systems that are technically strong, but also useful to operators, founders, and customers. I like work where product value and engineering quality reinforce each other.
+
+## Current Focus 🌍
+
+I am currently building through freelance work while exploring the right full-time opportunity, ideally with a team that values **full-stack product ownership**, **platform maturity**, and **practical AI automation**.
+
+## Selected Certifications
+
+- **Google Cloud Professional Data Engineer**
+- **Microsoft Certified: DevOps Engineer Expert**
+- **Microsoft Certified: Azure Developer Associate**
+
+## Connect 🤝
+
+- [LinkedIn](https://www.linkedin.com/in/umer2001)
+
+---
+
+_This profile is intentionally selective. A meaningful part of my strongest work has lived inside client and employer systems, so I use GitHub to reflect how I think and build, not just to list everything I have touched._
